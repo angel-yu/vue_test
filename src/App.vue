@@ -17,7 +17,7 @@ export default {
   components: {
     HelloWorld,
     Box,
-    Img
+      Img
   }
 }
 </script>
